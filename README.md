@@ -4,13 +4,6 @@ Codejam2014
 Google Codejam 2014 sol^ns
 
 Problem A. Magic Trick
-This contest is open for practice. You can try every problem as many times as you like, though we won't keep track of which problems you solve. Read the Quick-Start Guide to get started.
-Small input
-6 points	
-Solve A-small
-Note: To advance to the next rounds, you will need to score 25 points. Solving just this problem will not give you enough points.
-
-Problem
 
 Recently you went to a magic show. You were very impressed by one of the tricks, so you decided to try to figure out the secret behind it!
 
@@ -88,13 +81,6 @@ Case #3: Volunteer cheated!
 
 
 Problem B. Cookie Clicker Alpha
-This contest is open for practice. You can try every problem as many times as you like, though we won't keep track of which problems you solve. Read the Quick-Start Guide to get started.
-Small input
-8 points	
-Solve B-small
-Large input
-11 points	
-Solve B-large
 Introduction
 
 Cookie Clicker is a Javascript game by Orteil, where players click on a picture of a giant cookie. Clicking on the giant cookie gives them cookies. They can spend those cookies to buy buildings. Those buildings help them get even more cookies. Like this problem, the game is very cookie-focused. This problem has a similar idea, but it does not assume you have played Cookie Clicker. Please don't go play it now: it might be a long time before you come back.
@@ -166,14 +152,6 @@ Case #4: 526.1904762
 
 
 Problem C. Minesweeper Master
-This contest is open for practice. You can try every problem as many times as you like, though we won't keep track of which problems you solve. Read the Quick-Start Guide to get started.
-Small input
-11 points	
-Solve C-small
-Large input
-24 points	
-Solve C-large
-Problem
 
 Minesweeper is a computer game that became popular in the 1980s, and is still included in some versions of the Microsoft Windows operating system. This problem has a similar idea, but it does not assume you have played Minesweeper.
 
@@ -256,16 +234,6 @@ Case #5:
 **********
 
 Problem D. Deceitful War
-This contest is open for practice. You can try every problem as many times as you like, though we won't keep track of which problems you solve. Read the Quick-Start Guide to get started.
-Small input
-14 points	
-Solve D-small
-Large input
-16 points	
-Solve D-large
-This problem is the hardest problem to understand in this round. If you are new to Code Jam, you should probably try to solve the other problems first.
-
-Problem
 
 Naomi and Ken sometimes play games together. Before they play, each of them gets N identical-looking blocks of wood with masses between 0.0kg and 1.0kg (exclusive). All of the blocks have different weights. There are lots of games they could play with those blocks, but they usually play something they call War. Here is how War works:
 
